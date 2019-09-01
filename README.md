@@ -1,5 +1,5 @@
 # vue-community
-
+vue와 bootstrap-vue를 이용해 CRUD가 가능한 게시판을 구현해보기
 ## Project setup
 ```
 npm install
